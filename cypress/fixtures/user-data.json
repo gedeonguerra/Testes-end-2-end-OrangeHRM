@@ -1,13 +1,13 @@
 {
-  // Usuário com credenciais válidas, utilizado para testes de login bem-sucedido.
+  //Usuário com credenciais válidas, utilizado para testes de login bem-sucedido.
   "userSucess": {
-    "username": "Admin",       // Nome de usuário válido.
-    "password": "admin123"     // Senha correspondente ao usuário válido.
+    "username": "Admin",       //Nome de usuário válido.
+    "password": "admin123"     //Senha correspondente ao usuário válido.
   },
 
-  // Usuário com credenciais inválidas, utilizado para testes de falha no login.
+  //Usuário com credenciais inválidas, utilizado para testes de falha no login.
   "userFail": {
-    "username": "teste",       // Nome de usuário inexistente ou inválido.
-    "password": "teste"         // Senha incorreta.
+    "username": "teste",       //Nome de usuário inexistente ou inválido.
+    "password": "teste"         //Senha incorreta.
   }
 }
